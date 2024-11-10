@@ -2,4 +2,6 @@
 
 I am trying to learn git.
 
-just for exploring...
+i am trying to changes in this file.
+
+
